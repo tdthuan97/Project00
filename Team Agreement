@@ -1,0 +1,29 @@
+Project 00
+Team Agreement
+Why a team agreement?
+Today is your first group project at Intek. You will discover that group work is not always easy - because you are dealing with people, and people often don't have the same personalities, capacities and/or objectives.
+
+Writing a team agreement at the beginning of your group project clarifies expectations so that everybody knows what's their role and what part they should play in the project. Since everybody writes the team agreement document together, it's easier to enforce its content: everybody already agreed to follow the rules, so it's less awkward to remind your teammates of what they should do if any conflict arises.
+
+Note: The agreement won't be graded, but it will be referred to on Monday during the code review with a mentor. It's a work document, do it seriously.
+
+The process
+At the beginning of the project, contact the students the intranet paired you with (their phone number is on their profile if you can't find them in the Open Space) and meet up. Everybody must be there.*
+
+Together, read carefully the subject for the project and, before starting to code anything, create a file called team_agreement.md. Define the rules together, and write them in the file. You are free to format the file in whatever way you want.
+
+Once everybody agrees with the rules, commit and push that baby!
+
+*(If a student remains unreachable after a reasonable period of time, you can consider them absent and start working on the project.)
+
+What goes in the team agreement?
+The team agreement should address the following points:
+
+the name of the team (it's up to you, you can be creative or to the point!)
+the working hours each member commits to
+how often you will check-in with the code of others (= how often you update each other on your progress)
+the strengths and weaknesses of each member
+the allocation of the workload between members
+your strategy so that everybody understands the codebase
+A final word
+EVERYBODY must understand the codebase. If a group member cannot explain something they didn't code, you failed as a group. This is about group learning, if your teammate doesn't understand your code, walk them carefully through it.
